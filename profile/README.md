@@ -1,3 +1,3 @@
-# tbrul
+# Adaloop
 
-A collection of tools developped by [Tom Brulin](https://github.com/tom-brulin).
+A collection of tools developped by [Adaloop](https://github.com/adaloop).
